@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/google/cheetah" remote="github" name="LineageOS/android_device_google_cheetah" />
+  <project path="device/google/panther" remote="github" name="LineageOS/android_device_google_panther" />
+  <project path="device/google/pantah" remote="axion" name="android_device_google_pantah" />
+  <project path="device/google/shusky" remote="axion" name="android_device_google_shusky" />
+  <project path="device/google/raviole" remote="axion" name="android_device_google_raviole" />
+  <project path="device/google/gs101" remote="github" name="LineageOS/android_device_google_gs101" />
+  <project path="device/google/gs201" remote="github" name="LineageOS/android_device_google_gs201" />
+  <project path="device/google/gs-common" remote="github" name="LineageOS/android_device_google_gs-common" />
+  <project path="device/google/pantah-kernels/5.10" remote="aosp-pantah" name="device/google/pantah-kernels/5.10" clone-depth="1" />
+  <project path="vendor/google/cheetah" remote="github" name="TheMuppets/proprietary_vendor_google_cheetah" />
+  <project path="vendor/google/panther" remote="github" name="TheMuppets/proprietary_vendor_google_panther" />
+  <project path="vendor/google/husky" remote="github" name="TheMuppets/proprietary_vendor_google_husky" />
+  <project path="vendor/google/shiba" remote="github" name="TheMuppets/proprietary_vendor_google_shiba" />
+  <project path="device/google/oriole" remote="github" name="LineageOS/android_device_google_oriole" />
+  <project path="device/google/raviole-kernels/5.10" remote="aosp-raviole" name="device/google/raviole-kernels/5.10" clone-depth="1" />
+  <project path="vendor/google/raven" remote="github" name="TheMuppets/proprietary_vendor_google_raven" />
+  <project path="vendor/google/oriole" remote="github" name="TheMuppets/proprietary_vendor_google_oriole" />
+  <project path="device/google/husky" remote="github" name="LineageOS/android_device_google_husky" />
+  <project path="device/google/zuma" remote="github" name="LineageOS/android_device_google_zuma" />
+  <project path="device/google/shusky-kernels/5.15" remote="aosp-shusky" name="device/google/shusky-kernels/5.15" clone-depth="1" />
+</manifest>
