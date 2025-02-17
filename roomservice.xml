@@ -29,4 +29,13 @@
   <project path="vendor/google/caiman" remote="github" name="TheMuppets/proprietary_vendor_google_caiman" />
   <project path="vendor/google/tokay" remote="github" name="TheMuppets/proprietary_vendor_google_tokay" />
   <project path="vendor/google/komodo" remote="github" name="TheMuppets/proprietary_vendor_google_komodo" />
+  <project path="device/google/lynx" remote="axion" name="android_device_google_lynx" />
+  <project path="device/google/lynx-kernels/5.10" remote="aosp-lynx" name="device/google/lynx-kernels/5.10" clone-depth="1" />
+  <project path="vendor/google/lynx" remote="github" name="TheMuppets/proprietary_vendor_google_lynx" />
+  <project path="device/google/akita" remote="axion" name="android_device_google_akita" />
+  <project path="device/google/akita-kernels/5.15" remote="aosp-akita" name="device/google/akita-kernels/5.15" clone-depth="1" />
+  <project path="vendor/google/akita" remote="github" name="TheMuppets/proprietary_vendor_google_akita" />
+  <project path="device/google/bluejay" remote="axion" name="android_device_google_bluejay" />
+  <project path="device/google/bluejay-kernels/5.10" remote="aosp-bluejay" name="device/google/bluejay-kernels/5.10" clone-depth="1" />
+  <project path="vendor/google/bluejay" remote="github" name="TheMuppets/proprietary_vendor_google_bluejay" />
 </manifest>
