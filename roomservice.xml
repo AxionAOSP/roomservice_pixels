@@ -20,7 +20,7 @@
   <project path="device/google/husky" remote="github" name="LineageOS/android_device_google_husky" />
   <project path="device/google/zuma" remote="github" name="LineageOS/android_device_google_zuma" />
   <project path="device/google/shusky-kernels/6.1" remote="aosp-shusky" name="device/google/shusky-kernels/6.1" clone-depth="1" />
-  <project path="device/google/caimito" remote="github" name="LineageOS/android_device_google_caimito" />
+  <project path="device/google/caimito" remote="axion" name="android_device_google_caimito" />
   <project path="device/google/caiman" remote="github" name="LineageOS/android_device_google_caiman" />
   <project path="device/google/zumapro" remote="github" name="LineageOS/android_device_google_zumapro" />
   <project path="device/google/caimito-kernels/6.1" remote="aosp-caimito" name="device/google/caimito-kernels/6.1" clone-depth="1" />
