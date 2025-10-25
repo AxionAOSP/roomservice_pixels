@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies>
+  <device name="oriole">
+    <depends>gs101 raviole raviole-kernels</depends>
+  </device>
+  <device name="raven">
+    <depends>gs101 raviole raviole-kernels</depends>
+  </device>
+  <device name="bluejay">
+    <depends>gs101 bluejay bluejay-kernels</depends>
+  </device>
+  <device name="panther">
+    <depends>gs201 pantah pantah-kernels</depends>
+  </device>
+  <device name="cheetah">
+    <depends>gs201 pantah pantah-kernels</depends>
+  </device>
+  <device name="akita">
+    <depends>zuma akita akita-kernels</depends>
+  </device>
+  <device name="shiba">
+    <depends>zuma shusky shusky-kernels</depends>
+  </device>
+  <device name="husky">
+    <depends>zuma shusky shusky-kernels</depends>
+  </device>
+  <device name="caiman">
+    <depends>zumapro caimito caimito-kernels</depends>
+  </device>
+  <device name="komodo">
+    <depends>zumapro caimito caimito-kernels</depends>
+  </device>
+  <device name="tokay">
+    <depends>zumapro caimito caimito-kernels</depends>
+  </device>
+</dependencies>
