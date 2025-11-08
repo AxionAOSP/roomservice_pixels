@@ -7,8 +7,8 @@
   <project path="device/google/bluejay" remote="axion_devices" name="android_device_google_bluejay" />
   <project path="device/google/raviole" remote="axion_devices" name="android_device_google_raviole" />
 
-  <project path="device/google/bluejay-kernels/6.1" remote="aosp-bluejay" name="device/google/bluejay-kernels/6.1" clone-depth="1" />
-  <project path="device/google/raviole-kernels/6.1" remote="aosp-raviole" name="device/google/raviole-kernels/6.1" clone-depth="1" />
+  <project path="device/google/bluejay-kernels" remote="github" name="LineageOS/android_device_google_bluejay-kernels" />
+  <project path="device/google/raviole-kernels" remote="github" name="LineageOS/android_device_google_raviole-kernels" />
 
   <project path="vendor/google/bluejay" remote="axion_devices" name="proprietary_vendor_google_bluejay" clone-depth="1" />
   <project path="vendor/google/raven" remote="axion_devices" name="proprietary_vendor_google_raven" clone-depth="1" />
@@ -20,7 +20,7 @@
   
   <project path="device/google/pantah" remote="axion_devices" name="android_device_google_pantah" />
 
-  <project path="device/google/pantah-kernels/6.1" remote="axion_devices" revision="16" name="device_google_pantah-kernels_6.1" clone-depth="1" />
+  <project path="device/google/pantah-kernels" remote="github" name="LineageOS/android_device_google_pantah-kernels" />
 
   <project path="vendor/google/cheetah" remote="axion_devices" name="proprietary_vendor_google_cheetah" clone-depth="1" />
   <project path="vendor/google/panther" remote="axion_devices" name="proprietary_vendor_google_panther" clone-depth="1" />
@@ -31,9 +31,9 @@
 
   <project path="device/google/akita" remote="axion_devices" name="android_device_google_akita" />
   <project path="device/google/shusky" remote="axion_devices" name="android_device_google_shusky" />
-
-  <project path="device/google/akita-kernels/6.1" remote="aosp-akita" name="device/google/akita-kernels/6.1" clone-depth="1" />
-  <project path="device/google/shusky-kernels/6.1" remote="aosp-shusky" name="device/google/shusky-kernels/6.1" clone-depth="1" />
+  
+  <project path="device/google/akita-kernels" remote="github" name="LineageOS/android_device_google_akita-kernels" />
+  <project path="device/google/shusky-kernels" remote="github" name="LineageOS/android_device_google_shusky-kernels" />
 
   <project path="vendor/google/akita" remote="github" name="TheMuppets/proprietary_vendor_google_akita" />
   <project path="vendor/google/husky" remote="github" name="TheMuppets/proprietary_vendor_google_husky" />
